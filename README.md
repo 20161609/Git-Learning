@@ -1,30 +1,31 @@
 # 📘 Git-Learning
 
 > A beginner-friendly, step-by-step guide to learning Git from scratch.  
-> Includes basic commands, example workflows, and useful resources.
+> Includes basic commands, remote repository setup, and useful resources.
 
 ---
 
 ## 📌 What is this?
 
-This repository is a structured guide for anyone who wants to learn Git, especially beginners.  
-Each step focuses on practical usage, not theory.
+This repository is a structured learning series for mastering Git.  
+Each step is simple, practical, and focused on real usage.
 
 ---
 
 ## 📚 Learning Steps
 
-### ✅ Step 1 – Git Basics
+### ✅ [Step 1 – Git Basics](./step1.md)
 - What is Git?
 - How to install Git
 - Initialize a Git repository
-- Add, commit, and view history
-- 🔗 [Go to Step 1](./step1.md)
+- Add, commit, view history
 
----
+### ✅ [Step 2 – Connect to GitHub](./step2.md)
+- Create a GitHub repository
+- Link local and remote repos
+- Push and pull changes
 
 > ⚡️ More steps coming soon:
-> - Step 2: Connect to GitHub & remote repositories  
 > - Step 3: Branching & merging  
 > - Step 4: Conflict resolution  
 > - Step 5: Advanced workflows  
@@ -35,16 +36,16 @@ Each step focuses on practical usage, not theory.
 
 - Version control your projects
 - Safely experiment with changes
-- Collaborate with others without chaos
-- Build a portfolio with GitHub
+- Collaborate with others
+- Build a professional GitHub portfolio
 
 ---
 
 ## 🔗 Resources
 
-- [Pro Git Book](https://git-scm.com/book/en/v2) – Official and free
+- [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Docs](https://docs.github.com/en)
-- [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
 
