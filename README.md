@@ -1,34 +1,34 @@
 # 📘 Git-Learning
 
 > A beginner-friendly, step-by-step guide to learning Git from scratch.  
-> Includes basic commands, remote repository setup, and useful resources.
-
----
-
-## 📌 What is this?
-
-This repository is a structured learning series for mastering Git.  
-Each step is simple, practical, and focused on real usage.
+> Includes basic commands, remote repository setup, and commit message guidelines.
 
 ---
 
 ## 📚 Learning Steps
 
-### ✅ [Step 1 – Git Basics](./step1.md)
-- What is Git?
-- How to install Git
-- Initialize a Git repository
-- Add, commit, view history
+### ✅ [Step 1 – Understand the Basics](./step1.md)
+- What Git is and why it’s used
+- Installing Git on Windows/macOS
+- Basic commands with explanations
+- Example workflow
+- Link to Step 2
 
-### ✅ [Step 2 – Connect to GitHub](./step2.md)
+### ✅ [Step 2 – Connect to GitHub & Use Remote Repositories](./step2.md)
 - Create a GitHub repository
 - Link local and remote repos
-- Push and pull changes
+- Detailed explanation of `git remote add` & `git push -u origin main`
+- Pull, clone, and common remote commands
 
-> ⚡️ More steps coming soon:
-> - Step 3: Branching & merging  
-> - Step 4: Conflict resolution  
-> - Step 5: Advanced workflows  
+---
+
+## 📝 Additional Resources
+
+### 📜 [Commit Message Guidelines](./commit_guide.md)
+- Minimal but descriptive commit format
+- Allowed commit types
+- Writing rules and examples
+- Flexible usage for solo or team projects
 
 ---
 
@@ -36,12 +36,12 @@ Each step is simple, practical, and focused on real usage.
 
 - Version control your projects
 - Safely experiment with changes
-- Collaborate with others
+- Collaborate without chaos
 - Build a professional GitHub portfolio
 
 ---
 
-## 🔗 Resources
+## 🔗 External Resources
 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Docs](https://docs.github.com/en)
@@ -57,9 +57,9 @@ Each step is simple, practical, and focused on real usage.
 
 ---
 
-## 📬 Feedback or suggestions?
+## 📬 Feedback or Suggestions
 
-Feel free to open an issue or pull request!
+Open an issue or submit a pull request.
 
 ---
 
