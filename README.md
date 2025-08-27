@@ -1,7 +1,7 @@
 # 📘 Git-Learning
 
 > A beginner-friendly, step-by-step guide to learning Git from scratch.  
-> Includes basic commands, remote repository setup, and commit message guidelines.
+> Includes basic commands, remote repository setup, branch workflow, and commit message guidelines.
 
 ---
 
@@ -19,6 +19,13 @@
 - Link local and remote repos
 - Detailed explanation of `git remote add` & `git push -u origin main`
 - Pull, clone, and common remote commands
+
+### ✅ [Step 3 – Work with Branches & Collaboration](./step3.md)
+- Understand what branches are and why they matter
+- Create, switch, merge, and delete branches
+- Push feature branches to GitHub
+- Handle basic merge conflicts
+- Learn safe collaboration workflow
 
 ---
 
